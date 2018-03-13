@@ -1,0 +1,1863 @@
+# -*- coding: UTF-8 -*-
+# desc: 分成使用的总账表
+from models import AcctItemAggrBase
+
+
+class ACCT_ITEM_AGGR_11708871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11708888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11709888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11710888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11711888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11712888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11801888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11802888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11803888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11804888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11805888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11806888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11807888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11808888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11809888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11810888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11811888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11812888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11901888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11902888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11903888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11904888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11905888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11906888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11907888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11908888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11909888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11910888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11911888_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912871_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912691_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912692_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912870_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912872_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912873_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912874_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912875_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912876_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912877_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912878_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912879_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912883_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912886_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912887_HB(AcctItemAggrBase): pass
+
+
+class ACCT_ITEM_AGGR_11912888_HB(AcctItemAggrBase): pass
+
+
+TB_ACCT_ITEM_AGGR_HB = {
+    '11708_2': ACCT_ITEM_AGGR_11708871_HB,
+    '11708_691': ACCT_ITEM_AGGR_11708691_HB,
+    '11708_692': ACCT_ITEM_AGGR_11708692_HB,
+    '11708_870': ACCT_ITEM_AGGR_11708870_HB,
+    '11708_872': ACCT_ITEM_AGGR_11708872_HB,
+    '11708_873': ACCT_ITEM_AGGR_11708873_HB,
+    '11708_874': ACCT_ITEM_AGGR_11708874_HB,
+    '11708_875': ACCT_ITEM_AGGR_11708875_HB,
+    '11708_876': ACCT_ITEM_AGGR_11708876_HB,
+    '11708_877': ACCT_ITEM_AGGR_11708877_HB,
+    '11708_878': ACCT_ITEM_AGGR_11708878_HB,
+    '11708_879': ACCT_ITEM_AGGR_11708879_HB,
+    '11708_883': ACCT_ITEM_AGGR_11708883_HB,
+    '11708_886': ACCT_ITEM_AGGR_11708886_HB,
+    '11708_887': ACCT_ITEM_AGGR_11708887_HB,
+    '11708_888': ACCT_ITEM_AGGR_11708888_HB,
+    '11709_2': ACCT_ITEM_AGGR_11709871_HB,
+    '11709_691': ACCT_ITEM_AGGR_11709691_HB,
+    '11709_692': ACCT_ITEM_AGGR_11709692_HB,
+    '11709_870': ACCT_ITEM_AGGR_11709870_HB,
+    '11709_872': ACCT_ITEM_AGGR_11709872_HB,
+    '11709_873': ACCT_ITEM_AGGR_11709873_HB,
+    '11709_874': ACCT_ITEM_AGGR_11709874_HB,
+    '11709_875': ACCT_ITEM_AGGR_11709875_HB,
+    '11709_876': ACCT_ITEM_AGGR_11709876_HB,
+    '11709_877': ACCT_ITEM_AGGR_11709877_HB,
+    '11709_878': ACCT_ITEM_AGGR_11709878_HB,
+    '11709_879': ACCT_ITEM_AGGR_11709879_HB,
+    '11709_883': ACCT_ITEM_AGGR_11709883_HB,
+    '11709_886': ACCT_ITEM_AGGR_11709886_HB,
+    '11709_887': ACCT_ITEM_AGGR_11709887_HB,
+    '11709_888': ACCT_ITEM_AGGR_11709888_HB,
+    '11710_2': ACCT_ITEM_AGGR_11710871_HB,
+    '11710_691': ACCT_ITEM_AGGR_11710691_HB,
+    '11710_692': ACCT_ITEM_AGGR_11710692_HB,
+    '11710_870': ACCT_ITEM_AGGR_11710870_HB,
+    '11710_872': ACCT_ITEM_AGGR_11710872_HB,
+    '11710_873': ACCT_ITEM_AGGR_11710873_HB,
+    '11710_874': ACCT_ITEM_AGGR_11710874_HB,
+    '11710_875': ACCT_ITEM_AGGR_11710875_HB,
+    '11710_876': ACCT_ITEM_AGGR_11710876_HB,
+    '11710_877': ACCT_ITEM_AGGR_11710877_HB,
+    '11710_878': ACCT_ITEM_AGGR_11710878_HB,
+    '11710_879': ACCT_ITEM_AGGR_11710879_HB,
+    '11710_883': ACCT_ITEM_AGGR_11710883_HB,
+    '11710_886': ACCT_ITEM_AGGR_11710886_HB,
+    '11710_887': ACCT_ITEM_AGGR_11710887_HB,
+    '11710_888': ACCT_ITEM_AGGR_11710888_HB,
+    '11711_2': ACCT_ITEM_AGGR_11711871_HB,
+    '11711_691': ACCT_ITEM_AGGR_11711691_HB,
+    '11711_692': ACCT_ITEM_AGGR_11711692_HB,
+    '11711_870': ACCT_ITEM_AGGR_11711870_HB,
+    '11711_872': ACCT_ITEM_AGGR_11711872_HB,
+    '11711_873': ACCT_ITEM_AGGR_11711873_HB,
+    '11711_874': ACCT_ITEM_AGGR_11711874_HB,
+    '11711_875': ACCT_ITEM_AGGR_11711875_HB,
+    '11711_876': ACCT_ITEM_AGGR_11711876_HB,
+    '11711_877': ACCT_ITEM_AGGR_11711877_HB,
+    '11711_878': ACCT_ITEM_AGGR_11711878_HB,
+    '11711_879': ACCT_ITEM_AGGR_11711879_HB,
+    '11711_883': ACCT_ITEM_AGGR_11711883_HB,
+    '11711_886': ACCT_ITEM_AGGR_11711886_HB,
+    '11711_887': ACCT_ITEM_AGGR_11711887_HB,
+    '11711_888': ACCT_ITEM_AGGR_11711888_HB,
+    '11712_2': ACCT_ITEM_AGGR_11712871_HB,
+    '11712_691': ACCT_ITEM_AGGR_11712691_HB,
+    '11712_692': ACCT_ITEM_AGGR_11712692_HB,
+    '11712_870': ACCT_ITEM_AGGR_11712870_HB,
+    '11712_872': ACCT_ITEM_AGGR_11712872_HB,
+    '11712_873': ACCT_ITEM_AGGR_11712873_HB,
+    '11712_874': ACCT_ITEM_AGGR_11712874_HB,
+    '11712_875': ACCT_ITEM_AGGR_11712875_HB,
+    '11712_876': ACCT_ITEM_AGGR_11712876_HB,
+    '11712_877': ACCT_ITEM_AGGR_11712877_HB,
+    '11712_878': ACCT_ITEM_AGGR_11712878_HB,
+    '11712_879': ACCT_ITEM_AGGR_11712879_HB,
+    '11712_883': ACCT_ITEM_AGGR_11712883_HB,
+    '11712_886': ACCT_ITEM_AGGR_11712886_HB,
+    '11712_887': ACCT_ITEM_AGGR_11712887_HB,
+    '11712_888': ACCT_ITEM_AGGR_11712888_HB,
+    '11801_2': ACCT_ITEM_AGGR_11801871_HB,
+    '11801_691': ACCT_ITEM_AGGR_11801691_HB,
+    '11801_692': ACCT_ITEM_AGGR_11801692_HB,
+    '11801_870': ACCT_ITEM_AGGR_11801870_HB,
+    '11801_872': ACCT_ITEM_AGGR_11801872_HB,
+    '11801_873': ACCT_ITEM_AGGR_11801873_HB,
+    '11801_874': ACCT_ITEM_AGGR_11801874_HB,
+    '11801_875': ACCT_ITEM_AGGR_11801875_HB,
+    '11801_876': ACCT_ITEM_AGGR_11801876_HB,
+    '11801_877': ACCT_ITEM_AGGR_11801877_HB,
+    '11801_878': ACCT_ITEM_AGGR_11801878_HB,
+    '11801_879': ACCT_ITEM_AGGR_11801879_HB,
+    '11801_883': ACCT_ITEM_AGGR_11801883_HB,
+    '11801_886': ACCT_ITEM_AGGR_11801886_HB,
+    '11801_887': ACCT_ITEM_AGGR_11801887_HB,
+    '11801_888': ACCT_ITEM_AGGR_11801888_HB,
+    '11802_2': ACCT_ITEM_AGGR_11802871_HB,
+    '11802_691': ACCT_ITEM_AGGR_11802691_HB,
+    '11802_692': ACCT_ITEM_AGGR_11802692_HB,
+    '11802_870': ACCT_ITEM_AGGR_11802870_HB,
+    '11802_872': ACCT_ITEM_AGGR_11802872_HB,
+    '11802_873': ACCT_ITEM_AGGR_11802873_HB,
+    '11802_874': ACCT_ITEM_AGGR_11802874_HB,
+    '11802_875': ACCT_ITEM_AGGR_11802875_HB,
+    '11802_876': ACCT_ITEM_AGGR_11802876_HB,
+    '11802_877': ACCT_ITEM_AGGR_11802877_HB,
+    '11802_878': ACCT_ITEM_AGGR_11802878_HB,
+    '11802_879': ACCT_ITEM_AGGR_11802879_HB,
+    '11802_883': ACCT_ITEM_AGGR_11802883_HB,
+    '11802_886': ACCT_ITEM_AGGR_11802886_HB,
+    '11802_887': ACCT_ITEM_AGGR_11802887_HB,
+    '11802_888': ACCT_ITEM_AGGR_11802888_HB,
+    '11803_2': ACCT_ITEM_AGGR_11803871_HB,
+    '11803_691': ACCT_ITEM_AGGR_11803691_HB,
+    '11803_692': ACCT_ITEM_AGGR_11803692_HB,
+    '11803_870': ACCT_ITEM_AGGR_11803870_HB,
+    '11803_872': ACCT_ITEM_AGGR_11803872_HB,
+    '11803_873': ACCT_ITEM_AGGR_11803873_HB,
+    '11803_874': ACCT_ITEM_AGGR_11803874_HB,
+    '11803_875': ACCT_ITEM_AGGR_11803875_HB,
+    '11803_876': ACCT_ITEM_AGGR_11803876_HB,
+    '11803_877': ACCT_ITEM_AGGR_11803877_HB,
+    '11803_878': ACCT_ITEM_AGGR_11803878_HB,
+    '11803_879': ACCT_ITEM_AGGR_11803879_HB,
+    '11803_883': ACCT_ITEM_AGGR_11803883_HB,
+    '11803_886': ACCT_ITEM_AGGR_11803886_HB,
+    '11803_887': ACCT_ITEM_AGGR_11803887_HB,
+    '11803_888': ACCT_ITEM_AGGR_11803888_HB,
+    '11804_2': ACCT_ITEM_AGGR_11804871_HB,
+    '11804_691': ACCT_ITEM_AGGR_11804691_HB,
+    '11804_692': ACCT_ITEM_AGGR_11804692_HB,
+    '11804_870': ACCT_ITEM_AGGR_11804870_HB,
+    '11804_872': ACCT_ITEM_AGGR_11804872_HB,
+    '11804_873': ACCT_ITEM_AGGR_11804873_HB,
+    '11804_874': ACCT_ITEM_AGGR_11804874_HB,
+    '11804_875': ACCT_ITEM_AGGR_11804875_HB,
+    '11804_876': ACCT_ITEM_AGGR_11804876_HB,
+    '11804_877': ACCT_ITEM_AGGR_11804877_HB,
+    '11804_878': ACCT_ITEM_AGGR_11804878_HB,
+    '11804_879': ACCT_ITEM_AGGR_11804879_HB,
+    '11804_883': ACCT_ITEM_AGGR_11804883_HB,
+    '11804_886': ACCT_ITEM_AGGR_11804886_HB,
+    '11804_887': ACCT_ITEM_AGGR_11804887_HB,
+    '11804_888': ACCT_ITEM_AGGR_11804888_HB,
+    '11805_2': ACCT_ITEM_AGGR_11805871_HB,
+    '11805_691': ACCT_ITEM_AGGR_11805691_HB,
+    '11805_692': ACCT_ITEM_AGGR_11805692_HB,
+    '11805_870': ACCT_ITEM_AGGR_11805870_HB,
+    '11805_872': ACCT_ITEM_AGGR_11805872_HB,
+    '11805_873': ACCT_ITEM_AGGR_11805873_HB,
+    '11805_874': ACCT_ITEM_AGGR_11805874_HB,
+    '11805_875': ACCT_ITEM_AGGR_11805875_HB,
+    '11805_876': ACCT_ITEM_AGGR_11805876_HB,
+    '11805_877': ACCT_ITEM_AGGR_11805877_HB,
+    '11805_878': ACCT_ITEM_AGGR_11805878_HB,
+    '11805_879': ACCT_ITEM_AGGR_11805879_HB,
+    '11805_883': ACCT_ITEM_AGGR_11805883_HB,
+    '11805_886': ACCT_ITEM_AGGR_11805886_HB,
+    '11805_887': ACCT_ITEM_AGGR_11805887_HB,
+    '11805_888': ACCT_ITEM_AGGR_11805888_HB,
+    '11806_2': ACCT_ITEM_AGGR_11806871_HB,
+    '11806_691': ACCT_ITEM_AGGR_11806691_HB,
+    '11806_692': ACCT_ITEM_AGGR_11806692_HB,
+    '11806_870': ACCT_ITEM_AGGR_11806870_HB,
+    '11806_872': ACCT_ITEM_AGGR_11806872_HB,
+    '11806_873': ACCT_ITEM_AGGR_11806873_HB,
+    '11806_874': ACCT_ITEM_AGGR_11806874_HB,
+    '11806_875': ACCT_ITEM_AGGR_11806875_HB,
+    '11806_876': ACCT_ITEM_AGGR_11806876_HB,
+    '11806_877': ACCT_ITEM_AGGR_11806877_HB,
+    '11806_878': ACCT_ITEM_AGGR_11806878_HB,
+    '11806_879': ACCT_ITEM_AGGR_11806879_HB,
+    '11806_883': ACCT_ITEM_AGGR_11806883_HB,
+    '11806_886': ACCT_ITEM_AGGR_11806886_HB,
+    '11806_887': ACCT_ITEM_AGGR_11806887_HB,
+    '11806_888': ACCT_ITEM_AGGR_11806888_HB,
+    '11807_2': ACCT_ITEM_AGGR_11807871_HB,
+    '11807_691': ACCT_ITEM_AGGR_11807691_HB,
+    '11807_692': ACCT_ITEM_AGGR_11807692_HB,
+    '11807_870': ACCT_ITEM_AGGR_11807870_HB,
+    '11807_872': ACCT_ITEM_AGGR_11807872_HB,
+    '11807_873': ACCT_ITEM_AGGR_11807873_HB,
+    '11807_874': ACCT_ITEM_AGGR_11807874_HB,
+    '11807_875': ACCT_ITEM_AGGR_11807875_HB,
+    '11807_876': ACCT_ITEM_AGGR_11807876_HB,
+    '11807_877': ACCT_ITEM_AGGR_11807877_HB,
+    '11807_878': ACCT_ITEM_AGGR_11807878_HB,
+    '11807_879': ACCT_ITEM_AGGR_11807879_HB,
+    '11807_883': ACCT_ITEM_AGGR_11807883_HB,
+    '11807_886': ACCT_ITEM_AGGR_11807886_HB,
+    '11807_887': ACCT_ITEM_AGGR_11807887_HB,
+    '11807_888': ACCT_ITEM_AGGR_11807888_HB,
+    '11808_2': ACCT_ITEM_AGGR_11808871_HB,
+    '11808_691': ACCT_ITEM_AGGR_11808691_HB,
+    '11808_692': ACCT_ITEM_AGGR_11808692_HB,
+    '11808_870': ACCT_ITEM_AGGR_11808870_HB,
+    '11808_872': ACCT_ITEM_AGGR_11808872_HB,
+    '11808_873': ACCT_ITEM_AGGR_11808873_HB,
+    '11808_874': ACCT_ITEM_AGGR_11808874_HB,
+    '11808_875': ACCT_ITEM_AGGR_11808875_HB,
+    '11808_876': ACCT_ITEM_AGGR_11808876_HB,
+    '11808_877': ACCT_ITEM_AGGR_11808877_HB,
+    '11808_878': ACCT_ITEM_AGGR_11808878_HB,
+    '11808_879': ACCT_ITEM_AGGR_11808879_HB,
+    '11808_883': ACCT_ITEM_AGGR_11808883_HB,
+    '11808_886': ACCT_ITEM_AGGR_11808886_HB,
+    '11808_887': ACCT_ITEM_AGGR_11808887_HB,
+    '11808_888': ACCT_ITEM_AGGR_11808888_HB,
+    '11809_2': ACCT_ITEM_AGGR_11809871_HB,
+    '11809_691': ACCT_ITEM_AGGR_11809691_HB,
+    '11809_692': ACCT_ITEM_AGGR_11809692_HB,
+    '11809_870': ACCT_ITEM_AGGR_11809870_HB,
+    '11809_872': ACCT_ITEM_AGGR_11809872_HB,
+    '11809_873': ACCT_ITEM_AGGR_11809873_HB,
+    '11809_874': ACCT_ITEM_AGGR_11809874_HB,
+    '11809_875': ACCT_ITEM_AGGR_11809875_HB,
+    '11809_876': ACCT_ITEM_AGGR_11809876_HB,
+    '11809_877': ACCT_ITEM_AGGR_11809877_HB,
+    '11809_878': ACCT_ITEM_AGGR_11809878_HB,
+    '11809_879': ACCT_ITEM_AGGR_11809879_HB,
+    '11809_883': ACCT_ITEM_AGGR_11809883_HB,
+    '11809_886': ACCT_ITEM_AGGR_11809886_HB,
+    '11809_887': ACCT_ITEM_AGGR_11809887_HB,
+    '11809_888': ACCT_ITEM_AGGR_11809888_HB,
+    '11810_2': ACCT_ITEM_AGGR_11810871_HB,
+    '11810_691': ACCT_ITEM_AGGR_11810691_HB,
+    '11810_692': ACCT_ITEM_AGGR_11810692_HB,
+    '11810_870': ACCT_ITEM_AGGR_11810870_HB,
+    '11810_872': ACCT_ITEM_AGGR_11810872_HB,
+    '11810_873': ACCT_ITEM_AGGR_11810873_HB,
+    '11810_874': ACCT_ITEM_AGGR_11810874_HB,
+    '11810_875': ACCT_ITEM_AGGR_11810875_HB,
+    '11810_876': ACCT_ITEM_AGGR_11810876_HB,
+    '11810_877': ACCT_ITEM_AGGR_11810877_HB,
+    '11810_878': ACCT_ITEM_AGGR_11810878_HB,
+    '11810_879': ACCT_ITEM_AGGR_11810879_HB,
+    '11810_883': ACCT_ITEM_AGGR_11810883_HB,
+    '11810_886': ACCT_ITEM_AGGR_11810886_HB,
+    '11810_887': ACCT_ITEM_AGGR_11810887_HB,
+    '11810_888': ACCT_ITEM_AGGR_11810888_HB,
+    '11811_2': ACCT_ITEM_AGGR_11811871_HB,
+    '11811_691': ACCT_ITEM_AGGR_11811691_HB,
+    '11811_692': ACCT_ITEM_AGGR_11811692_HB,
+    '11811_870': ACCT_ITEM_AGGR_11811870_HB,
+    '11811_872': ACCT_ITEM_AGGR_11811872_HB,
+    '11811_873': ACCT_ITEM_AGGR_11811873_HB,
+    '11811_874': ACCT_ITEM_AGGR_11811874_HB,
+    '11811_875': ACCT_ITEM_AGGR_11811875_HB,
+    '11811_876': ACCT_ITEM_AGGR_11811876_HB,
+    '11811_877': ACCT_ITEM_AGGR_11811877_HB,
+    '11811_878': ACCT_ITEM_AGGR_11811878_HB,
+    '11811_879': ACCT_ITEM_AGGR_11811879_HB,
+    '11811_883': ACCT_ITEM_AGGR_11811883_HB,
+    '11811_886': ACCT_ITEM_AGGR_11811886_HB,
+    '11811_887': ACCT_ITEM_AGGR_11811887_HB,
+    '11811_888': ACCT_ITEM_AGGR_11811888_HB,
+    '11812_2': ACCT_ITEM_AGGR_11812871_HB,
+    '11812_691': ACCT_ITEM_AGGR_11812691_HB,
+    '11812_692': ACCT_ITEM_AGGR_11812692_HB,
+    '11812_870': ACCT_ITEM_AGGR_11812870_HB,
+    '11812_872': ACCT_ITEM_AGGR_11812872_HB,
+    '11812_873': ACCT_ITEM_AGGR_11812873_HB,
+    '11812_874': ACCT_ITEM_AGGR_11812874_HB,
+    '11812_875': ACCT_ITEM_AGGR_11812875_HB,
+    '11812_876': ACCT_ITEM_AGGR_11812876_HB,
+    '11812_877': ACCT_ITEM_AGGR_11812877_HB,
+    '11812_878': ACCT_ITEM_AGGR_11812878_HB,
+    '11812_879': ACCT_ITEM_AGGR_11812879_HB,
+    '11812_883': ACCT_ITEM_AGGR_11812883_HB,
+    '11812_886': ACCT_ITEM_AGGR_11812886_HB,
+    '11812_887': ACCT_ITEM_AGGR_11812887_HB,
+    '11812_888': ACCT_ITEM_AGGR_11812888_HB,
+    '11901_2': ACCT_ITEM_AGGR_11901871_HB,
+    '11901_691': ACCT_ITEM_AGGR_11901691_HB,
+    '11901_692': ACCT_ITEM_AGGR_11901692_HB,
+    '11901_870': ACCT_ITEM_AGGR_11901870_HB,
+    '11901_872': ACCT_ITEM_AGGR_11901872_HB,
+    '11901_873': ACCT_ITEM_AGGR_11901873_HB,
+    '11901_874': ACCT_ITEM_AGGR_11901874_HB,
+    '11901_875': ACCT_ITEM_AGGR_11901875_HB,
+    '11901_876': ACCT_ITEM_AGGR_11901876_HB,
+    '11901_877': ACCT_ITEM_AGGR_11901877_HB,
+    '11901_878': ACCT_ITEM_AGGR_11901878_HB,
+    '11901_879': ACCT_ITEM_AGGR_11901879_HB,
+    '11901_883': ACCT_ITEM_AGGR_11901883_HB,
+    '11901_886': ACCT_ITEM_AGGR_11901886_HB,
+    '11901_887': ACCT_ITEM_AGGR_11901887_HB,
+    '11901_888': ACCT_ITEM_AGGR_11901888_HB,
+    '11902_2': ACCT_ITEM_AGGR_11902871_HB,
+    '11902_691': ACCT_ITEM_AGGR_11902691_HB,
+    '11902_692': ACCT_ITEM_AGGR_11902692_HB,
+    '11902_870': ACCT_ITEM_AGGR_11902870_HB,
+    '11902_872': ACCT_ITEM_AGGR_11902872_HB,
+    '11902_873': ACCT_ITEM_AGGR_11902873_HB,
+    '11902_874': ACCT_ITEM_AGGR_11902874_HB,
+    '11902_875': ACCT_ITEM_AGGR_11902875_HB,
+    '11902_876': ACCT_ITEM_AGGR_11902876_HB,
+    '11902_877': ACCT_ITEM_AGGR_11902877_HB,
+    '11902_878': ACCT_ITEM_AGGR_11902878_HB,
+    '11902_879': ACCT_ITEM_AGGR_11902879_HB,
+    '11902_883': ACCT_ITEM_AGGR_11902883_HB,
+    '11902_886': ACCT_ITEM_AGGR_11902886_HB,
+    '11902_887': ACCT_ITEM_AGGR_11902887_HB,
+    '11902_888': ACCT_ITEM_AGGR_11902888_HB,
+    '11903_2': ACCT_ITEM_AGGR_11903871_HB,
+    '11903_691': ACCT_ITEM_AGGR_11903691_HB,
+    '11903_692': ACCT_ITEM_AGGR_11903692_HB,
+    '11903_870': ACCT_ITEM_AGGR_11903870_HB,
+    '11903_872': ACCT_ITEM_AGGR_11903872_HB,
+    '11903_873': ACCT_ITEM_AGGR_11903873_HB,
+    '11903_874': ACCT_ITEM_AGGR_11903874_HB,
+    '11903_875': ACCT_ITEM_AGGR_11903875_HB,
+    '11903_876': ACCT_ITEM_AGGR_11903876_HB,
+    '11903_877': ACCT_ITEM_AGGR_11903877_HB,
+    '11903_878': ACCT_ITEM_AGGR_11903878_HB,
+    '11903_879': ACCT_ITEM_AGGR_11903879_HB,
+    '11903_883': ACCT_ITEM_AGGR_11903883_HB,
+    '11903_886': ACCT_ITEM_AGGR_11903886_HB,
+    '11903_887': ACCT_ITEM_AGGR_11903887_HB,
+    '11903_888': ACCT_ITEM_AGGR_11903888_HB,
+    '11904_2': ACCT_ITEM_AGGR_11904871_HB,
+    '11904_691': ACCT_ITEM_AGGR_11904691_HB,
+    '11904_692': ACCT_ITEM_AGGR_11904692_HB,
+    '11904_870': ACCT_ITEM_AGGR_11904870_HB,
+    '11904_872': ACCT_ITEM_AGGR_11904872_HB,
+    '11904_873': ACCT_ITEM_AGGR_11904873_HB,
+    '11904_874': ACCT_ITEM_AGGR_11904874_HB,
+    '11904_875': ACCT_ITEM_AGGR_11904875_HB,
+    '11904_876': ACCT_ITEM_AGGR_11904876_HB,
+    '11904_877': ACCT_ITEM_AGGR_11904877_HB,
+    '11904_878': ACCT_ITEM_AGGR_11904878_HB,
+    '11904_879': ACCT_ITEM_AGGR_11904879_HB,
+    '11904_883': ACCT_ITEM_AGGR_11904883_HB,
+    '11904_886': ACCT_ITEM_AGGR_11904886_HB,
+    '11904_887': ACCT_ITEM_AGGR_11904887_HB,
+    '11904_888': ACCT_ITEM_AGGR_11904888_HB,
+    '11905_2': ACCT_ITEM_AGGR_11905871_HB,
+    '11905_691': ACCT_ITEM_AGGR_11905691_HB,
+    '11905_692': ACCT_ITEM_AGGR_11905692_HB,
+    '11905_870': ACCT_ITEM_AGGR_11905870_HB,
+    '11905_872': ACCT_ITEM_AGGR_11905872_HB,
+    '11905_873': ACCT_ITEM_AGGR_11905873_HB,
+    '11905_874': ACCT_ITEM_AGGR_11905874_HB,
+    '11905_875': ACCT_ITEM_AGGR_11905875_HB,
+    '11905_876': ACCT_ITEM_AGGR_11905876_HB,
+    '11905_877': ACCT_ITEM_AGGR_11905877_HB,
+    '11905_878': ACCT_ITEM_AGGR_11905878_HB,
+    '11905_879': ACCT_ITEM_AGGR_11905879_HB,
+    '11905_883': ACCT_ITEM_AGGR_11905883_HB,
+    '11905_886': ACCT_ITEM_AGGR_11905886_HB,
+    '11905_887': ACCT_ITEM_AGGR_11905887_HB,
+    '11905_888': ACCT_ITEM_AGGR_11905888_HB,
+    '11906_2': ACCT_ITEM_AGGR_11906871_HB,
+    '11906_691': ACCT_ITEM_AGGR_11906691_HB,
+    '11906_692': ACCT_ITEM_AGGR_11906692_HB,
+    '11906_870': ACCT_ITEM_AGGR_11906870_HB,
+    '11906_872': ACCT_ITEM_AGGR_11906872_HB,
+    '11906_873': ACCT_ITEM_AGGR_11906873_HB,
+    '11906_874': ACCT_ITEM_AGGR_11906874_HB,
+    '11906_875': ACCT_ITEM_AGGR_11906875_HB,
+    '11906_876': ACCT_ITEM_AGGR_11906876_HB,
+    '11906_877': ACCT_ITEM_AGGR_11906877_HB,
+    '11906_878': ACCT_ITEM_AGGR_11906878_HB,
+    '11906_879': ACCT_ITEM_AGGR_11906879_HB,
+    '11906_883': ACCT_ITEM_AGGR_11906883_HB,
+    '11906_886': ACCT_ITEM_AGGR_11906886_HB,
+    '11906_887': ACCT_ITEM_AGGR_11906887_HB,
+    '11906_888': ACCT_ITEM_AGGR_11906888_HB,
+    '11907_2': ACCT_ITEM_AGGR_11907871_HB,
+    '11907_691': ACCT_ITEM_AGGR_11907691_HB,
+    '11907_692': ACCT_ITEM_AGGR_11907692_HB,
+    '11907_870': ACCT_ITEM_AGGR_11907870_HB,
+    '11907_872': ACCT_ITEM_AGGR_11907872_HB,
+    '11907_873': ACCT_ITEM_AGGR_11907873_HB,
+    '11907_874': ACCT_ITEM_AGGR_11907874_HB,
+    '11907_875': ACCT_ITEM_AGGR_11907875_HB,
+    '11907_876': ACCT_ITEM_AGGR_11907876_HB,
+    '11907_877': ACCT_ITEM_AGGR_11907877_HB,
+    '11907_878': ACCT_ITEM_AGGR_11907878_HB,
+    '11907_879': ACCT_ITEM_AGGR_11907879_HB,
+    '11907_883': ACCT_ITEM_AGGR_11907883_HB,
+    '11907_886': ACCT_ITEM_AGGR_11907886_HB,
+    '11907_887': ACCT_ITEM_AGGR_11907887_HB,
+    '11907_888': ACCT_ITEM_AGGR_11907888_HB,
+    '11908_2': ACCT_ITEM_AGGR_11908871_HB,
+    '11908_691': ACCT_ITEM_AGGR_11908691_HB,
+    '11908_692': ACCT_ITEM_AGGR_11908692_HB,
+    '11908_870': ACCT_ITEM_AGGR_11908870_HB,
+    '11908_872': ACCT_ITEM_AGGR_11908872_HB,
+    '11908_873': ACCT_ITEM_AGGR_11908873_HB,
+    '11908_874': ACCT_ITEM_AGGR_11908874_HB,
+    '11908_875': ACCT_ITEM_AGGR_11908875_HB,
+    '11908_876': ACCT_ITEM_AGGR_11908876_HB,
+    '11908_877': ACCT_ITEM_AGGR_11908877_HB,
+    '11908_878': ACCT_ITEM_AGGR_11908878_HB,
+    '11908_879': ACCT_ITEM_AGGR_11908879_HB,
+    '11908_883': ACCT_ITEM_AGGR_11908883_HB,
+    '11908_886': ACCT_ITEM_AGGR_11908886_HB,
+    '11908_887': ACCT_ITEM_AGGR_11908887_HB,
+    '11908_888': ACCT_ITEM_AGGR_11908888_HB,
+    '11909_2': ACCT_ITEM_AGGR_11909871_HB,
+    '11909_691': ACCT_ITEM_AGGR_11909691_HB,
+    '11909_692': ACCT_ITEM_AGGR_11909692_HB,
+    '11909_870': ACCT_ITEM_AGGR_11909870_HB,
+    '11909_872': ACCT_ITEM_AGGR_11909872_HB,
+    '11909_873': ACCT_ITEM_AGGR_11909873_HB,
+    '11909_874': ACCT_ITEM_AGGR_11909874_HB,
+    '11909_875': ACCT_ITEM_AGGR_11909875_HB,
+    '11909_876': ACCT_ITEM_AGGR_11909876_HB,
+    '11909_877': ACCT_ITEM_AGGR_11909877_HB,
+    '11909_878': ACCT_ITEM_AGGR_11909878_HB,
+    '11909_879': ACCT_ITEM_AGGR_11909879_HB,
+    '11909_883': ACCT_ITEM_AGGR_11909883_HB,
+    '11909_886': ACCT_ITEM_AGGR_11909886_HB,
+    '11909_887': ACCT_ITEM_AGGR_11909887_HB,
+    '11909_888': ACCT_ITEM_AGGR_11909888_HB,
+    '11910_2': ACCT_ITEM_AGGR_11910871_HB,
+    '11910_691': ACCT_ITEM_AGGR_11910691_HB,
+    '11910_692': ACCT_ITEM_AGGR_11910692_HB,
+    '11910_870': ACCT_ITEM_AGGR_11910870_HB,
+    '11910_872': ACCT_ITEM_AGGR_11910872_HB,
+    '11910_873': ACCT_ITEM_AGGR_11910873_HB,
+    '11910_874': ACCT_ITEM_AGGR_11910874_HB,
+    '11910_875': ACCT_ITEM_AGGR_11910875_HB,
+    '11910_876': ACCT_ITEM_AGGR_11910876_HB,
+    '11910_877': ACCT_ITEM_AGGR_11910877_HB,
+    '11910_878': ACCT_ITEM_AGGR_11910878_HB,
+    '11910_879': ACCT_ITEM_AGGR_11910879_HB,
+    '11910_883': ACCT_ITEM_AGGR_11910883_HB,
+    '11910_886': ACCT_ITEM_AGGR_11910886_HB,
+    '11910_887': ACCT_ITEM_AGGR_11910887_HB,
+    '11910_888': ACCT_ITEM_AGGR_11910888_HB,
+    '11911_2': ACCT_ITEM_AGGR_11911871_HB,
+    '11911_691': ACCT_ITEM_AGGR_11911691_HB,
+    '11911_692': ACCT_ITEM_AGGR_11911692_HB,
+    '11911_870': ACCT_ITEM_AGGR_11911870_HB,
+    '11911_872': ACCT_ITEM_AGGR_11911872_HB,
+    '11911_873': ACCT_ITEM_AGGR_11911873_HB,
+    '11911_874': ACCT_ITEM_AGGR_11911874_HB,
+    '11911_875': ACCT_ITEM_AGGR_11911875_HB,
+    '11911_876': ACCT_ITEM_AGGR_11911876_HB,
+    '11911_877': ACCT_ITEM_AGGR_11911877_HB,
+    '11911_878': ACCT_ITEM_AGGR_11911878_HB,
+    '11911_879': ACCT_ITEM_AGGR_11911879_HB,
+    '11911_883': ACCT_ITEM_AGGR_11911883_HB,
+    '11911_886': ACCT_ITEM_AGGR_11911886_HB,
+    '11911_887': ACCT_ITEM_AGGR_11911887_HB,
+    '11911_888': ACCT_ITEM_AGGR_11911888_HB,
+    '11912_2': ACCT_ITEM_AGGR_11912871_HB,
+    '11912_691': ACCT_ITEM_AGGR_11912691_HB,
+    '11912_692': ACCT_ITEM_AGGR_11912692_HB,
+    '11912_870': ACCT_ITEM_AGGR_11912870_HB,
+    '11912_872': ACCT_ITEM_AGGR_11912872_HB,
+    '11912_873': ACCT_ITEM_AGGR_11912873_HB,
+    '11912_874': ACCT_ITEM_AGGR_11912874_HB,
+    '11912_875': ACCT_ITEM_AGGR_11912875_HB,
+    '11912_876': ACCT_ITEM_AGGR_11912876_HB,
+    '11912_877': ACCT_ITEM_AGGR_11912877_HB,
+    '11912_878': ACCT_ITEM_AGGR_11912878_HB,
+    '11912_879': ACCT_ITEM_AGGR_11912879_HB,
+    '11912_883': ACCT_ITEM_AGGR_11912883_HB,
+    '11912_886': ACCT_ITEM_AGGR_11912886_HB,
+    '11912_887': ACCT_ITEM_AGGR_11912887_HB,
+    '11912_888': ACCT_ITEM_AGGR_11912888_HB,
+}
